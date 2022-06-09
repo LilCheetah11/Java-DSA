@@ -32,7 +32,7 @@ public class HelloWorld {
 //		System.out.println(grade);
 		
 		System.out.println(a +"  "+ b);
-		System.out.println("Kunal Was here.");
+		
 	}
 	
 
